@@ -4,11 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Emirhan Kaplan</h1>
 <h3 align="center">Offensive Security</h3>
-<br>
-
-<p><img align="right" style="height:270px;" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="" /></p>
-
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhankaplan&label=Profile%20views&color=0e75b6&style=flat" alt="emirhankaplan" /> </p>
 
@@ -29,22 +24,7 @@
 <br>
 <br>
   
-<table border="0" align="center">
-  
-<tr border="0">
-  
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=emirhankaplan&show_icons=true&theme=radical" alt="">
-<br>
-</br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emirhankaplan&amp;theme=radical&amp;hide_border=false" alt="">
-</td>
 
-<td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=emirhankaplan&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
 
 
 
